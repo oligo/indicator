@@ -1,0 +1,4 @@
+indicator
+=========
+
+system resource indicator
